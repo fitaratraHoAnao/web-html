@@ -1,0 +1,14 @@
+{
+  "name": "web-html",
+  "version": "1.0.0",
+  "description": "A simple translator app using Google Translate API and served via Express.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bruno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
